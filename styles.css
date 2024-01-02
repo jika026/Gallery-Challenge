@@ -141,8 +141,7 @@ footer {
         gap: 0.75rem;
     }
     footer {
-        position: absolute;
-        top: calc(100% - 24px);
+        bottom: -24px;
     }
 }
 @media screen and (max-width: 300px) {
