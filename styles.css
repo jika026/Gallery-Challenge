@@ -100,7 +100,6 @@ footer {
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    margin-top: 24px;
     position: relative;
     top: 24px;
 }
@@ -142,6 +141,7 @@ footer {
         gap: 0.75rem;
     }
     footer {
+        margin-top: 24px;
         top: 24px;
     }
 }
